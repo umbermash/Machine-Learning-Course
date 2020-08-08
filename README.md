@@ -1,17 +1,21 @@
 # Machine-Learning-Course
 Algoritmos de machine learning Estudados/criados durante o curso  
            #COURSE SYLLABUS
-#Module 1 - Introduction to Machine Learning
-     Applications of Machine Learning
-     Supervised vs Unsupervised Learning
-     Python libraries suitable for Machine Learning
+
+<#Module 1 - Introduction to Machine Learning>
+
+      Applications of Machine Learning
+      Supervised vs Unsupervised Learning
+      Python libraries suitable for Machine Learning
 
 #Module 2 - Regression
+
      Linear Regression
      Non-linear Regression
      Model evaluation methods  
 
 #Module 3 - Classification 
+
      K-Nearest Neighbour
      Decision Trees
      Logistic Regression
@@ -26,8 +30,8 @@ Algoritmos de machine learning Estudados/criados durante o curso
   
 #Module 5 - Recommender Systems
 
-Content-based recommender systems
-Collaborative Filtering    
+     Content-based recommender systems
+     Collaborative Filtering    
      
      
      
